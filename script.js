@@ -12,7 +12,7 @@ const currTime = document.querySelector('#currTime');
 const durTime = document.querySelector('#durTime');
 
 // Song titles
-const songs = ['Chill', '70s TV', '2099', 'Angel Boy', 'Day By Day', 'Dreams', 'Girlfriend', 'Home', 'I Dont Mind', '샘김 Make Up', 'Its a Vibe', 'June Blues', 'Monalisa', 'Numb', 'One More To Come', 'Orange and Pomegranate', 'Say Goodnight', 'Show Me That You Love Me', 'Ukelele and Chill', 'Warm Feeling'  ];
+const songs = ['Chill', '70s TV', '2099', 'Angel Boy', 'Day By Day', 'Dreams', 'Girlfriend', 'Home', 'I Dont Mind', '샘김 Make Up', 'Its a Vibe', 'Love Me Like That',  'June Blues', 'Monalisa', 'Numb', 'One More To Come', 'Orange And Pomegranate', 'Say Goodnight', 'Show Me That You Love Me', 'Ukelele and Chill', 'Warm Feeling'  ];
 
 // Keep track of song
 let songIndex = 2;
